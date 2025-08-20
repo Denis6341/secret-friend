@@ -90,6 +90,7 @@ body {
 .button-container {
     width: 300px;
     justify-content: center;
+    margin: 3px 0;
 }
 
 /* Estilos de entrada de texto */
