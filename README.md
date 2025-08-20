@@ -7,7 +7,7 @@ It allows you to add friend's names, randomly draw one as the secret friend, and
 
 ## 📸 Preview
 
-![App preview](assets/amigo-secreto.png)
+![App preview](assets/preview.png)
 
 ---
 
